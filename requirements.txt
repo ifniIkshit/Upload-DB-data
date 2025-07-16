@@ -2,4 +2,3 @@ pandas
 openpyxl
 requests
 pandas
-math
