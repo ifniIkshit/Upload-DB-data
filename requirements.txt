@@ -3,4 +3,3 @@ openpyxl
 requests
 pandas
 math
-re
