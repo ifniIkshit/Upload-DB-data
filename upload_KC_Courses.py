@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 
 # Step 1: Read Excel
-df = pd.read_excel('CSE.xlsx')
+df = pd.read_excel('Education.xlsx')
 
 # Step 2: API Config
 BASE_URL = 'https://dev.api.infigon.app/'
